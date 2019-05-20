@@ -1,0 +1,21 @@
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+/*--- header ---*/
+.header{
+    background-color: #3B5998;
+    height: 82px;
+} 
+.facebook-text{
+    text-align: left;
+    margin-top: 17px;
+    padding-left: 50px; 
+    font-size: 38px;
+    font-weight: 600;
+    color: white;
+}
+.facebook-text:hover {
+    text-decoration: none;
+    color: white;
+}
+
